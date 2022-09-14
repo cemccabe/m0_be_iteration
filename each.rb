@@ -19,4 +19,5 @@ words.each do |word|
     puts word
   end
 end
+
 # Record yourself live-coding and talking through either Challenge 1 or 2. The recording doesn't have to be the first time you are solving the problem. Use technical vocabulary and explain each part to demonstrate your understanding! Share the link to your video in your small group channel.
